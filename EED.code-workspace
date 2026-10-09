@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "project",
+			"path": "project"
+		}
+	],
+	"settings": {
+		"java.import.exclusions": [
+			"**/node_modules/**",
+			"**/.metadata/**"
+		],
+		"files.encoding": "utf8",
+		"files.exclude": {
+			"**/bin": true
+		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "java",
+				"name": "Área de un triángulo",
+				"request": "launch",
+				"mainClass": "project/projects.area_de_un_triangulo",
+				"projectName": "project"
+			}
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"vscjava.vscode-java-pack",
+			"ms-vscode-remote.remote-wsl"
+		]
+	}
+}
