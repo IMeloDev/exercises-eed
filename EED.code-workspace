@@ -23,7 +23,8 @@
 				"name": "Área de un triángulo",
 				"request": "launch",
 				"mainClass": "project/projects.area_de_un_triangulo",
-				"projectName": "project"
+				"projectName": "project",
+				"console": "integratedTerminal"
 			}
 		]
 	},
